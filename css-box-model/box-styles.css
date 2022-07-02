@@ -14,6 +14,8 @@ h1 {
 
 p {
     padding: 20px 0 20px 10px;  /* Clockwise: Top Right Bottom Left */
+
+    margin-top: 25px;  /* Collapses into bigger bottom margin */
     margin-bottom: 50px;
 }
 
