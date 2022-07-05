@@ -86,3 +86,9 @@ a:visited:active {
 p:last-of-type {
     margin-bottom: 50px;
 }
+
+/* Example of using ID selector instead of class selector for 2nd button */
+/* Generally, you should use class selectors intead of ID selectors */
+#button-2 {
+    color: #5D6063;
+}
