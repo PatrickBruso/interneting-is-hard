@@ -155,4 +155,7 @@ body {
     .legacy-form-row legend {
         float: left;
     }
+    .form-row .instructions {
+        margin-left: 120px;
+    }
 }
